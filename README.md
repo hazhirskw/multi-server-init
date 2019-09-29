@@ -1,0 +1,1 @@
+This step-by-step demo gives you a walkthrough on how to build a CI (Continuous Integration) environment with minimal effort; all the steps come together to you in the form of a use case solving a specific issue with a development environment. Apart from installing Vagrant and VirtualBox everything else is automated using Ansible Playbooks;
